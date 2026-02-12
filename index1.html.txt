@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deployment Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            text-align: center;
+            padding-top: 100px;
+        }
+        .card {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            border-radius: 15px;
+            display: inline-block;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        .time {
+            margin-top: 20px;
+            font-size: 14px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>🚀 GitHub Actions Deployment Success</h1>
+        <h2>Anurag Nayak</h2>
+        <p>If you can see this, auto-deploy is working!</p>
+        <div class="time">
+            Version: 1.0 – Deployment Test
+        </div>
+    </div>
+
+</body>
+</html>
