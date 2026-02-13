@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #0f172a;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            text-align: center;
+            padding: 40px;
+            border-radius: 12px;
+            background-color: #1e293b;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+        h1 {
+            margin: 0;
+            font-size: 48px;
+        }
+        p {
+            margin-top: 10px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Lead Angel</h1>
+        <p>Deployment Test Successful 🚀</p>
+    </div>
+</body>
+</html>
